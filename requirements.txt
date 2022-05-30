@@ -40,7 +40,7 @@ opencv-python-headless==4.5.5.64
 opt-einsum==3.3.0
 pandas==1.4.2
 Pillow==9.1.1
-protobuf==4.21.1
+protobuf==3.9.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==3.0.9
